@@ -1,4 +1,4 @@
-# linux_projet_mosef
+# Climate Risk Indicators Visualization
 
 # Visualisation des indicateurs de risque climatique 🌍  
 
